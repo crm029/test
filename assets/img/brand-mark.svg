@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title">
+<title id="title">MEHDI monogram</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4d08c"/><stop offset="1" stop-color="#b58c35"/></linearGradient></defs>
+<circle cx="120" cy="120" r="108" fill="#0d1b2a" stroke="url(#g)" stroke-width="3"/>
+<circle cx="120" cy="120" r="94" fill="none" stroke="#c9a84c" stroke-opacity=".32" stroke-width="1"/>
+<path d="M68 157V83h17l35 43 35-43h17v74h-19v-44l-33 39-33-39v44z" fill="url(#g)"/>
+<path d="M183 63l5 12 12 5-12 5-5 12-5-12-12-5 12-5z" fill="#e4d08c"/>
+</svg>
